@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+b{
+    font-size: 15px  ;
+}
+
+body{
+    background-color: bisque   ;
+}
+
+.fotos{
+    margin-left: 300px;
+}
